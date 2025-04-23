@@ -24,7 +24,7 @@ Determine which factory location and machine types had the highest failure rates
 
 ## Task 2: Pay Equity Classification
 ### Objective
-Evaluate gender pay equality across job roles and locations.
+Evaluate pay equality across job roles and locations.
 
 ### Methodology
 - Processed compensation data in Excel
